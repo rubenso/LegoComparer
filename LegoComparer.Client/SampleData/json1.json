@@ -1,0 +1,1064 @@
+{
+  "id": "220053f6-8a3a-45b1-8291-a59845c2b1df",
+  "username": "landscape-artist",
+  "location": "BJX",
+  "brickCount": 1730,
+  "collection": [
+    {
+      "pieceId": "3024",
+      "variants": [
+        {
+          "color": "34",
+          "count": 9
+        },
+        {
+          "color": "3",
+          "count": 16
+        },
+        {
+          "color": "152",
+          "count": 15
+        },
+        {
+          "color": "7",
+          "count": 2
+        },
+        {
+          "color": "2",
+          "count": 4
+        },
+        {
+          "color": "1",
+          "count": 10
+        },
+        {
+          "color": "9",
+          "count": 2
+        },
+        {
+          "color": "5",
+          "count": 8
+        },
+        {
+          "color": "8",
+          "count": 1
+        },
+        {
+          "color": "4",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "pieceId": "3710",
+      "variants": [
+        {
+          "color": "34",
+          "count": 12
+        },
+        {
+          "color": "152",
+          "count": 17
+        },
+        {
+          "color": "3",
+          "count": 11
+        },
+        {
+          "color": "9",
+          "count": 3
+        },
+        {
+          "color": "5",
+          "count": 7
+        },
+        {
+          "color": "7",
+          "count": 2
+        },
+        {
+          "color": "2",
+          "count": 2
+        },
+        {
+          "color": "155",
+          "count": 2
+        },
+        {
+          "color": "1",
+          "count": 9
+        },
+        {
+          "color": "4",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "pieceId": "63864",
+      "variants": [
+        {
+          "color": "3",
+          "count": 11
+        },
+        {
+          "color": "152",
+          "count": 13
+        },
+        {
+          "color": "34",
+          "count": 9
+        },
+        {
+          "color": "155",
+          "count": 2
+        },
+        {
+          "color": "5",
+          "count": 5
+        },
+        {
+          "color": "2",
+          "count": 2
+        },
+        {
+          "color": "7",
+          "count": 1
+        },
+        {
+          "color": "9",
+          "count": 1
+        },
+        {
+          "color": "4",
+          "count": 9
+        },
+        {
+          "color": "1",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "pieceId": "4070",
+      "variants": [
+        {
+          "color": "3",
+          "count": 16
+        },
+        {
+          "color": "34",
+          "count": 11
+        },
+        {
+          "color": "152",
+          "count": 12
+        },
+        {
+          "color": "8",
+          "count": 3
+        },
+        {
+          "color": "7",
+          "count": 2
+        },
+        {
+          "color": "2",
+          "count": 1
+        },
+        {
+          "color": "155",
+          "count": 1
+        },
+        {
+          "color": "9",
+          "count": 1
+        },
+        {
+          "color": "5",
+          "count": 10
+        },
+        {
+          "color": "1",
+          "count": 3
+        },
+        {
+          "color": "4",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "pieceId": "4286",
+      "variants": [
+        {
+          "color": "152",
+          "count": 21
+        },
+        {
+          "color": "3",
+          "count": 17
+        },
+        {
+          "color": "34",
+          "count": 5
+        },
+        {
+          "color": "8",
+          "count": 4
+        },
+        {
+          "color": "155",
+          "count": 1
+        },
+        {
+          "color": "9",
+          "count": 2
+        },
+        {
+          "color": "1",
+          "count": 5
+        },
+        {
+          "color": "5",
+          "count": 8
+        },
+        {
+          "color": "2",
+          "count": 1
+        },
+        {
+          "color": "7",
+          "count": 1
+        },
+        {
+          "color": "4",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "pieceId": "78221",
+      "variants": [
+        {
+          "color": "34",
+          "count": 13
+        },
+        {
+          "color": "3",
+          "count": 18
+        },
+        {
+          "color": "8",
+          "count": 3
+        },
+        {
+          "color": "9",
+          "count": 2
+        },
+        {
+          "color": "152",
+          "count": 9
+        },
+        {
+          "color": "1",
+          "count": 9
+        },
+        {
+          "color": "5",
+          "count": 11
+        },
+        {
+          "color": "155",
+          "count": 2
+        },
+        {
+          "color": "4",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "pieceId": "54200",
+      "variants": [
+        {
+          "color": "3",
+          "count": 20
+        },
+        {
+          "color": "34",
+          "count": 6
+        },
+        {
+          "color": "152",
+          "count": 21
+        },
+        {
+          "color": "2",
+          "count": 2
+        },
+        {
+          "color": "5",
+          "count": 12
+        },
+        {
+          "color": "8",
+          "count": 2
+        },
+        {
+          "color": "9",
+          "count": 3
+        },
+        {
+          "color": "7",
+          "count": 1
+        },
+        {
+          "color": "1",
+          "count": 4
+        },
+        {
+          "color": "4",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "pieceId": "3023",
+      "variants": [
+        {
+          "color": "34",
+          "count": 6
+        },
+        {
+          "color": "152",
+          "count": 16
+        },
+        {
+          "color": "3",
+          "count": 20
+        },
+        {
+          "color": "8",
+          "count": 6
+        },
+        {
+          "color": "2",
+          "count": 2
+        },
+        {
+          "color": "5",
+          "count": 10
+        },
+        {
+          "color": "1",
+          "count": 11
+        },
+        {
+          "color": "4",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "pieceId": "36840",
+      "variants": [
+        {
+          "color": "34",
+          "count": 9
+        },
+        {
+          "color": "3",
+          "count": 18
+        },
+        {
+          "color": "152",
+          "count": 19
+        },
+        {
+          "color": "5",
+          "count": 12
+        },
+        {
+          "color": "2",
+          "count": 1
+        },
+        {
+          "color": "9",
+          "count": 1
+        },
+        {
+          "color": "155",
+          "count": 1
+        },
+        {
+          "color": "1",
+          "count": 8
+        },
+        {
+          "color": "4",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "pieceId": "3004",
+      "variants": [
+        {
+          "color": "152",
+          "count": 9
+        },
+        {
+          "color": "34",
+          "count": 9
+        },
+        {
+          "color": "3",
+          "count": 18
+        },
+        {
+          "color": "5",
+          "count": 13
+        },
+        {
+          "color": "2",
+          "count": 2
+        },
+        {
+          "color": "1",
+          "count": 11
+        },
+        {
+          "color": "9",
+          "count": 1
+        },
+        {
+          "color": "8",
+          "count": 2
+        },
+        {
+          "color": "155",
+          "count": 1
+        },
+        {
+          "color": "4",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "pieceId": "77232",
+      "variants": [
+        {
+          "color": "3",
+          "count": 19
+        },
+        {
+          "color": "152",
+          "count": 14
+        },
+        {
+          "color": "34",
+          "count": 2
+        },
+        {
+          "color": "2",
+          "count": 1
+        },
+        {
+          "color": "8",
+          "count": 1
+        },
+        {
+          "color": "1",
+          "count": 12
+        },
+        {
+          "color": "5",
+          "count": 10
+        },
+        {
+          "color": "155",
+          "count": 1
+        },
+        {
+          "color": "4",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "pieceId": "3005",
+      "variants": [
+        {
+          "color": "152",
+          "count": 24
+        },
+        {
+          "color": "3",
+          "count": 24
+        },
+        {
+          "color": "34",
+          "count": 4
+        },
+        {
+          "color": "155",
+          "count": 1
+        },
+        {
+          "color": "5",
+          "count": 9
+        },
+        {
+          "color": "9",
+          "count": 1
+        },
+        {
+          "color": "1",
+          "count": 7
+        },
+        {
+          "color": "7",
+          "count": 1
+        },
+        {
+          "color": "2",
+          "count": 1
+        },
+        {
+          "color": "4",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "pieceId": "2431",
+      "variants": [
+        {
+          "color": "3",
+          "count": 15
+        },
+        {
+          "color": "152",
+          "count": 15
+        },
+        {
+          "color": "34",
+          "count": 3
+        },
+        {
+          "color": "2",
+          "count": 3
+        },
+        {
+          "color": "155",
+          "count": 1
+        },
+        {
+          "color": "8",
+          "count": 1
+        },
+        {
+          "color": "5",
+          "count": 10
+        },
+        {
+          "color": "4",
+          "count": 8
+        },
+        {
+          "color": "1",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "pieceId": "75523",
+      "variants": [
+        {
+          "color": "3",
+          "count": 14
+        },
+        {
+          "color": "152",
+          "count": 22
+        },
+        {
+          "color": "34",
+          "count": 6
+        },
+        {
+          "color": "9",
+          "count": 5
+        },
+        {
+          "color": "8",
+          "count": 3
+        },
+        {
+          "color": "5",
+          "count": 8
+        },
+        {
+          "color": "2",
+          "count": 1
+        },
+        {
+          "color": "1",
+          "count": 8
+        },
+        {
+          "color": "155",
+          "count": 4
+        },
+        {
+          "color": "4",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "pieceId": "3795",
+      "variants": [
+        {
+          "color": "34",
+          "count": 10
+        },
+        {
+          "color": "3",
+          "count": 12
+        },
+        {
+          "color": "152",
+          "count": 11
+        },
+        {
+          "color": "5",
+          "count": 7
+        },
+        {
+          "color": "7",
+          "count": 1
+        },
+        {
+          "color": "2",
+          "count": 3
+        },
+        {
+          "color": "155",
+          "count": 1
+        },
+        {
+          "color": "1",
+          "count": 5
+        },
+        {
+          "color": "4",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "pieceId": "3062b",
+      "variants": [
+        {
+          "color": "3",
+          "count": 19
+        },
+        {
+          "color": "152",
+          "count": 14
+        },
+        {
+          "color": "34",
+          "count": 12
+        },
+        {
+          "color": "155",
+          "count": 1
+        },
+        {
+          "color": "8",
+          "count": 3
+        },
+        {
+          "color": "1",
+          "count": 10
+        },
+        {
+          "color": "2",
+          "count": 1
+        },
+        {
+          "color": "4",
+          "count": 7
+        },
+        {
+          "color": "5",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "pieceId": "11477",
+      "variants": [
+        {
+          "color": "152",
+          "count": 21
+        },
+        {
+          "color": "3",
+          "count": 11
+        },
+        {
+          "color": "34",
+          "count": 3
+        },
+        {
+          "color": "1",
+          "count": 8
+        },
+        {
+          "color": "2",
+          "count": 3
+        },
+        {
+          "color": "9",
+          "count": 3
+        },
+        {
+          "color": "7",
+          "count": 1
+        },
+        {
+          "color": "8",
+          "count": 1
+        },
+        {
+          "color": "5",
+          "count": 4
+        },
+        {
+          "color": "4",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "pieceId": "3001",
+      "variants": [
+        {
+          "color": "152",
+          "count": 18
+        },
+        {
+          "color": "34",
+          "count": 7
+        },
+        {
+          "color": "3",
+          "count": 18
+        },
+        {
+          "color": "9",
+          "count": 2
+        },
+        {
+          "color": "8",
+          "count": 1
+        },
+        {
+          "color": "5",
+          "count": 10
+        },
+        {
+          "color": "1",
+          "count": 4
+        },
+        {
+          "color": "2",
+          "count": 1
+        },
+        {
+          "color": "155",
+          "count": 1
+        },
+        {
+          "color": "4",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "pieceId": "14719",
+      "variants": [
+        {
+          "color": "3",
+          "count": 20
+        },
+        {
+          "color": "152",
+          "count": 18
+        },
+        {
+          "color": "34",
+          "count": 11
+        },
+        {
+          "color": "8",
+          "count": 6
+        },
+        {
+          "color": "1",
+          "count": 16
+        },
+        {
+          "color": "155",
+          "count": 3
+        },
+        {
+          "color": "2",
+          "count": 2
+        },
+        {
+          "color": "9",
+          "count": 2
+        },
+        {
+          "color": "4",
+          "count": 12
+        },
+        {
+          "color": "5",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "pieceId": "11211",
+      "variants": [
+        {
+          "color": "34",
+          "count": 5
+        },
+        {
+          "color": "152",
+          "count": 20
+        },
+        {
+          "color": "3",
+          "count": 5
+        },
+        {
+          "color": "7",
+          "count": 1
+        },
+        {
+          "color": "2",
+          "count": 2
+        },
+        {
+          "color": "9",
+          "count": 1
+        },
+        {
+          "color": "5",
+          "count": 8
+        },
+        {
+          "color": "155",
+          "count": 1
+        },
+        {
+          "color": "1",
+          "count": 8
+        },
+        {
+          "color": "4",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "pieceId": "78231",
+      "variants": [
+        {
+          "color": "3",
+          "count": 14
+        },
+        {
+          "color": "34",
+          "count": 6
+        },
+        {
+          "color": "152",
+          "count": 14
+        },
+        {
+          "color": "5",
+          "count": 13
+        },
+        {
+          "color": "2",
+          "count": 5
+        },
+        {
+          "color": "1",
+          "count": 10
+        },
+        {
+          "color": "7",
+          "count": 3
+        },
+        {
+          "color": "8",
+          "count": 2
+        },
+        {
+          "color": "9",
+          "count": 3
+        },
+        {
+          "color": "155",
+          "count": 1
+        },
+        {
+          "color": "4",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "pieceId": "22888",
+      "variants": [
+        {
+          "color": "152",
+          "count": 10
+        },
+        {
+          "color": "34",
+          "count": 6
+        },
+        {
+          "color": "3",
+          "count": 12
+        },
+        {
+          "color": "8",
+          "count": 3
+        },
+        {
+          "color": "5",
+          "count": 5
+        },
+        {
+          "color": "155",
+          "count": 2
+        },
+        {
+          "color": "7",
+          "count": 1
+        },
+        {
+          "color": "9",
+          "count": 1
+        },
+        {
+          "color": "1",
+          "count": 5
+        },
+        {
+          "color": "2",
+          "count": 1
+        },
+        {
+          "color": "4",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "pieceId": "3069b",
+      "variants": [
+        {
+          "color": "3",
+          "count": 18
+        },
+        {
+          "color": "34",
+          "count": 8
+        },
+        {
+          "color": "152",
+          "count": 13
+        },
+        {
+          "color": "8",
+          "count": 3
+        },
+        {
+          "color": "155",
+          "count": 1
+        },
+        {
+          "color": "5",
+          "count": 9
+        },
+        {
+          "color": "1",
+          "count": 9
+        },
+        {
+          "color": "2",
+          "count": 1
+        },
+        {
+          "color": "4",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "pieceId": "3029",
+      "variants": [
+        {
+          "color": "34",
+          "count": 6
+        },
+        {
+          "color": "3",
+          "count": 11
+        },
+        {
+          "color": "152",
+          "count": 8
+        },
+        {
+          "color": "5",
+          "count": 5
+        },
+        {
+          "color": "2",
+          "count": 2
+        },
+        {
+          "color": "155",
+          "count": 2
+        },
+        {
+          "color": "8",
+          "count": 4
+        },
+        {
+          "color": "1",
+          "count": 5
+        },
+        {
+          "color": "4",
+          "count": 6
+        }
+      ]
+    }
+  ]
+}

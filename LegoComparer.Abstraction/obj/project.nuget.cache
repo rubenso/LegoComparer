@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rjSEMDStmhazmdMxqVGayiOtXI7SWxdyQGG7jubA/F5rAWYv3mxALQtHEgiiFeIzQwHij4LkXTMVw8S/CpDr7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Abstraction\\LegoComparer.Abstraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Tomas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Tomas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

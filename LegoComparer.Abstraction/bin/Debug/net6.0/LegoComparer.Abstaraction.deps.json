@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LegoComparer.Abstaraction/1.0.0": {
+        "runtime": {
+          "LegoComparer.Abstaraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LegoComparer.Abstaraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

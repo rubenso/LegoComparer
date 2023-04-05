@@ -1,0 +1,6 @@
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Test\obj\Debug\net6.0\Lego.Test.csproj.AssemblyReference.cache
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Test\obj\Debug\net6.0\Lego.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Test\obj\Debug\net6.0\Lego.Test.AssemblyInfoInputs.cache
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Test\obj\Debug\net6.0\Lego.Test.AssemblyInfo.cs
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Test\obj\Debug\net6.0\Lego.Test.csproj.CoreCompileInputs.cache

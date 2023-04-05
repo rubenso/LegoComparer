@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegoComparer.Model", "LegoComparer.Model\LegoComparer.Model.csproj", "{BA90E7F7-2B45-4EAC-B349-ED2A973AF88C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegoComparer.ApiSource", "LegoComparer.Api\LegoComparer.ApiSource.csproj", "{99DE8733-0890-44A7-88F1-393550F295DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegoComparer.Test", "LegoComparer.Test\LegoComparer.Test.csproj", "{217B3278-738D-4970-9D93-CEED7DCF384A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoComparer.Client", "LegoComparer.Client\LegoComparer.Client.csproj", "{94B7DEA6-04FC-4661-95CD-458F54729E96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA90E7F7-2B45-4EAC-B349-ED2A973AF88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA90E7F7-2B45-4EAC-B349-ED2A973AF88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA90E7F7-2B45-4EAC-B349-ED2A973AF88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA90E7F7-2B45-4EAC-B349-ED2A973AF88C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DE8733-0890-44A7-88F1-393550F295DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DE8733-0890-44A7-88F1-393550F295DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DE8733-0890-44A7-88F1-393550F295DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DE8733-0890-44A7-88F1-393550F295DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{217B3278-738D-4970-9D93-CEED7DCF384A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217B3278-738D-4970-9D93-CEED7DCF384A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217B3278-738D-4970-9D93-CEED7DCF384A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217B3278-738D-4970-9D93-CEED7DCF384A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B7DEA6-04FC-4661-95CD-458F54729E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B7DEA6-04FC-4661-95CD-458F54729E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B7DEA6-04FC-4661-95CD-458F54729E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B7DEA6-04FC-4661-95CD-458F54729E96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {185D48D3-56C4-427C-86B7-9BDF7F6DE912}
+	EndGlobalSection
+EndGlobal

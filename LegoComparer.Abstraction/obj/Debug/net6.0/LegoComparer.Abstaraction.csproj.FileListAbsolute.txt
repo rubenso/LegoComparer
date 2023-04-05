@@ -1,0 +1,12 @@
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Abstaraction\bin\Debug\net6.0\LegoComparer.Abstaraction.deps.json
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Abstaraction\bin\Debug\net6.0\LegoComparer.Abstaraction.dll
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Abstaraction\bin\Debug\net6.0\LegoComparer.Abstaraction.pdb
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Abstaraction\obj\Debug\net6.0\LegoComparer.Abstaraction.csproj.AssemblyReference.cache
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Abstaraction\obj\Debug\net6.0\LegoComparer.Abstaraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Abstaraction\obj\Debug\net6.0\LegoComparer.Abstaraction.AssemblyInfoInputs.cache
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Abstaraction\obj\Debug\net6.0\LegoComparer.Abstaraction.AssemblyInfo.cs
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Abstaraction\obj\Debug\net6.0\LegoComparer.Abstaraction.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Abstaraction\obj\Debug\net6.0\LegoComparer.Abstaraction.dll
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Abstaraction\obj\Debug\net6.0\refint\LegoComparer.Abstaraction.dll
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Abstaraction\obj\Debug\net6.0\LegoComparer.Abstaraction.pdb
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Abstaraction\obj\Debug\net6.0\ref\LegoComparer.Abstaraction.dll

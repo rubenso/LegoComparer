@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LegoComparer.ApiClient/1.0.0": {
+        "dependencies": {
+          "LegoComparer.Abstaraction": "1.0.0"
+        },
+        "runtime": {
+          "LegoComparer.ApiClient.dll": {}
+        }
+      },
+      "LegoComparer.Abstaraction/1.0.0": {
+        "runtime": {
+          "LegoComparer.Abstaraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LegoComparer.ApiClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LegoComparer.Abstaraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

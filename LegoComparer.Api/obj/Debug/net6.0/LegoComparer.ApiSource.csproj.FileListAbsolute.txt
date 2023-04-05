@@ -1,0 +1,15 @@
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\bin\Debug\net6.0\LegoComparer.ApiSource.deps.json
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\bin\Debug\net6.0\LegoComparer.ApiSource.dll
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\bin\Debug\net6.0\LegoComparer.ApiSource.pdb
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\bin\Debug\net6.0\LegoComparer.Model.dll
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\bin\Debug\net6.0\LegoComparer.Model.pdb
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\obj\Debug\net6.0\LegoComparer.ApiSource.csproj.AssemblyReference.cache
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\obj\Debug\net6.0\LegoComparer.ApiSource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\obj\Debug\net6.0\LegoComparer.ApiSource.AssemblyInfoInputs.cache
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\obj\Debug\net6.0\LegoComparer.ApiSource.AssemblyInfo.cs
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\obj\Debug\net6.0\LegoComparer.ApiSource.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\obj\Debug\net6.0\LegoComparer.ApiSource.csproj.CopyComplete
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\obj\Debug\net6.0\LegoComparer.ApiSource.dll
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\obj\Debug\net6.0\refint\LegoComparer.ApiSource.dll
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\obj\Debug\net6.0\LegoComparer.ApiSource.pdb
+C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Api\obj\Debug\net6.0\ref\LegoComparer.ApiSource.dll

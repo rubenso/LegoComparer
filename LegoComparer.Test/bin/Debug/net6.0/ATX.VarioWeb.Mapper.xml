@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ATX.VarioWeb.Mapper</name>
+    </assembly>
+    <members>
+        <member name="T:ATX.VarioWeb.Mapper.Module.UnitOfWork">
+            <summary>
+            Class providing mechanism for connectors.
+            </summary>
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Module.UnitOfWork.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ATX.VarioWeb.Mapper.Module.UnitOfWork"/> class.
+            </summary>
+            <param name="configuration"></param>
+            <param name="logger"></param>
+        </member>
+        <member name="P:ATX.VarioWeb.Mapper.Module.UnitOfWork.OrderConnector">
+            <summary>
+            Gets instance of the order connector.
+            </summary>
+        </member>
+        <member name="P:ATX.VarioWeb.Mapper.Module.UnitOfWork.ProductConnector">
+            <summary>
+            Gets instance of the product connector.
+            </summary>
+        </member>
+        <member name="P:ATX.VarioWeb.Mapper.Module.UnitOfWork.Mapper">
+            <summary>
+            Gets instance of the mapper.
+            </summary>
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Module.UnitOfWork.MapResponse``1(System.Text.Json.JsonDocument)">
+            <summary>
+            Map response to corresponding type.
+            </summary>
+            <typeparam name="T">Type of data.</typeparam>
+            <param name="varioApiResponse">Json document with parsed response.</param>
+            <returns></returns>
+            <exception cref="T:System.Net.Http.HttpRequestException">When <paramref name="varioApiResponse"/> is null or is marked with error, but no error is presented.</exception>
+        </member>
+        <member name="T:ATX.VarioWeb.Mapper.Repository.VarioExportApi">
+            <summary>
+            Base export class.
+            </summary>
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Repository.VarioExportApi.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ATX.VarioWeb.Mapper.Repository.VarioExportApi"/> class.
+            </summary>
+            <param name="url"></param>
+            <param name="token"></param>
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Repository.VarioExportApi.GetVarioData(System.String,System.Nullable{System.Int32},System.String[])">
+            <summary>
+            Run HTTP Request to get data from <paramref name="endpointName"/> and parse them to <seealso cref="T:System.Text.Json.JsonDocument"/>.
+            </summary>
+            <param name="endpointName"></param>
+            <param name="version"></param>
+            <param name="parameters"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Repository.VarioExportApi.GetVarioData(System.String,System.String[])">
+            <summary>
+            Run HTTP Request to get data from <paramref name="endpointName"/> and parse them to <seealso cref="T:System.Text.Json.JsonDocument"/>.
+            </summary>
+            <param name="endpointName"></param>
+            <param name="parameters"></param>
+            <returns></returns>
+            <exception cref="T:System.Net.Http.HttpRequestException"></exception>
+        </member>
+        <member name="T:ATX.VarioWeb.Mapper.Repository.VarioExportOrderApi">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Repository.VarioExportOrderApi.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ATX.VarioWeb.Mapper.Repository.VarioExportOrderApi"/> class.
+            </summary>
+            <param name="config"></param>
+        </member>
+        <member name="P:ATX.VarioWeb.Mapper.Repository.VarioExportOrderApi.Config">
+            <summary>
+            Gets configuration.
+            </summary>
+        </member>
+        <member name="T:ATX.VarioWeb.Mapper.Repository.VarioExportProductApi">
+            <summary>
+            Export class for products.
+            </summary>
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Repository.VarioExportProductApi.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ATX.VarioWeb.Mapper.Repository.VarioExportProductApi"/> class.
+            </summary>
+            <param name="config"></param>
+        </member>
+        <member name="P:ATX.VarioWeb.Mapper.Repository.VarioExportProductApi.Config">
+            <summary>
+            Gets configuration.
+            </summary>
+        </member>
+        <member name="T:ATX.VarioWeb.Mapper.Services.VarioExport">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+                Initializes a new instance of the <see cref="T:ATX.VarioWeb.Mapper.Services.VarioExport" /> class.
+            </summary>
+            <param name="configuration">Configuration.</param>
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetClubStates(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetClubCustomerStates(System.Nullable{System.Int32},System.String[])">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetClubActivations(System.Nullable{System.Int32},System.String[])">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetClubTransactions(System.Nullable{System.Int32},System.String[])">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetGeneratedCheques(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetChequeDeactivations(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetTwistoOrderStatus(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetTwistoCreditNotes(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetOrder(System.Nullable{System.Int32},System.String[])">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetOrderItems(System.Nullable{System.Int32},System.String[])">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetOrderReviews(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetCurrencyList(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetActionPriceLists(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetCardRefundations(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetCatalogs(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetCatalogVariants(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetStockAvailability(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetSizeGroups(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetImages(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetImageVariants(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetProductPriceLists(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetProductMaintenanceAndWishes(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetProductParameterValues(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetProductParameterVariants(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetProductProperties(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetParameterListValues(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetProductPropertyGroups(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetProductPropertySizeGroups(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetProductCategories(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetCategoryTranslations(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetRelatedProducts(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetCatalogTranslations(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetParametersDefinitions(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="M:ATX.VarioWeb.Mapper.Services.VarioExport.GetInternalCategories(System.Nullable{System.Int32})">
+            <inheritdoc />
+        </member>
+        <member name="T:ATX.VarioWeb.ServiceRegistration">
+            <summary>
+            Services registration extension.
+            </summary>
+        </member>
+        <member name="M:ATX.VarioWeb.ServiceRegistration.AddAtxVarioMapper(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Register required services.
+            </summary>
+            <param name="services"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
