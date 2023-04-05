@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SHGjrzE29vDhDQJB5FmlDtcTaXGJdxjKfGfjwA1Iuu2uCPcVXuUDQ/oH3tzhpMS67OVCIYSg5/tlca3S58J4Iw==",
+  "dgSpecHash": "/cu+IzSxS5TFc19yUm6zkluZ8ovRDQZc6U+R5NjQgtLjxELsktiHLgLsGGBulVh95lPCkrlUXBa3ePW1jMuMcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Client\\LegoComparer.Client.csproj",
+  "projectFilePath": "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Client\\LegoComparer.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tomas\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Tomas\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

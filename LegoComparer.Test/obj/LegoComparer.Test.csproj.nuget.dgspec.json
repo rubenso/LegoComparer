@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Test\\LegoComparer.Test.csproj": {}
+    "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Test\\LegoComparer.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Api\\LegoComparer.ApiSource.csproj": {
+    "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Api\\LegoComparer.ApiSource.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Api\\LegoComparer.ApiSource.csproj",
+        "projectUniqueName": "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Api\\LegoComparer.ApiSource.csproj",
         "projectName": "LegoComparer.ApiSource",
-        "projectPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Api\\LegoComparer.ApiSource.csproj",
+        "projectPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Api\\LegoComparer.ApiSource.csproj",
         "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Api\\obj\\",
+        "outputPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -37,8 +37,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Model\\LegoComparer.Model.csproj": {
-                "projectPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Model\\LegoComparer.Model.csproj"
+              "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Model\\LegoComparer.Model.csproj": {
+                "projectPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Model\\LegoComparer.Model.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Model\\LegoComparer.Model.csproj": {
+    "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Model\\LegoComparer.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Model\\LegoComparer.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Model\\LegoComparer.Model.csproj",
         "projectName": "LegoComparer.Model",
-        "projectPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Model\\LegoComparer.Model.csproj",
+        "projectPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Model\\LegoComparer.Model.csproj",
         "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Model\\obj\\",
+        "outputPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -170,14 +170,14 @@
         }
       }
     },
-    "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Test\\LegoComparer.Test.csproj": {
+    "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Test\\LegoComparer.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Test\\LegoComparer.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Test\\LegoComparer.Test.csproj",
         "projectName": "LegoComparer.Test",
-        "projectPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Test\\LegoComparer.Test.csproj",
+        "projectPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Test\\LegoComparer.Test.csproj",
         "packagesPath": "C:\\Users\\Tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Test\\obj\\",
+        "outputPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -203,8 +203,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Api\\LegoComparer.ApiSource.csproj": {
-                "projectPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparer\\LegoComparer.Api\\LegoComparer.ApiSource.csproj"
+              "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Api\\LegoComparer.ApiSource.csproj": {
+                "projectPath": "C:\\Users\\Tomas\\source\\repos\\LegoComparerGit\\LegoComparer.Api\\LegoComparer.ApiSource.csproj"
               }
             }
           }

@@ -10,3 +10,15 @@ C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Model\obj\Debug\net6.0\Leg
 C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Model\obj\Debug\net6.0\refint\LegoComparer.Model.dll
 C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Model\obj\Debug\net6.0\LegoComparer.Model.pdb
 C:\Users\Tomas\source\repos\LegoComparer\LegoComparer.Model\obj\Debug\net6.0\ref\LegoComparer.Model.dll
+C:\Users\Tomas\Source\Repos\LegoComparerGit\LegoComparer.Model\bin\Debug\net6.0\LegoComparer.Model.deps.json
+C:\Users\Tomas\source\repos\LegoComparerGit\LegoComparer.Model\bin\Debug\net6.0\LegoComparer.Model.dll
+C:\Users\Tomas\source\repos\LegoComparerGit\LegoComparer.Model\bin\Debug\net6.0\LegoComparer.Model.pdb
+C:\Users\Tomas\source\repos\LegoComparerGit\LegoComparer.Model\obj\Debug\net6.0\LegoComparer.Model.csproj.AssemblyReference.cache
+C:\Users\Tomas\source\repos\LegoComparerGit\LegoComparer.Model\obj\Debug\net6.0\LegoComparer.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas\source\repos\LegoComparerGit\LegoComparer.Model\obj\Debug\net6.0\LegoComparer.Model.AssemblyInfoInputs.cache
+C:\Users\Tomas\source\repos\LegoComparerGit\LegoComparer.Model\obj\Debug\net6.0\LegoComparer.Model.AssemblyInfo.cs
+C:\Users\Tomas\source\repos\LegoComparerGit\LegoComparer.Model\obj\Debug\net6.0\LegoComparer.Model.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\LegoComparerGit\LegoComparer.Model\obj\Debug\net6.0\LegoComparer.Model.dll
+C:\Users\Tomas\source\repos\LegoComparerGit\LegoComparer.Model\obj\Debug\net6.0\refint\LegoComparer.Model.dll
+C:\Users\Tomas\source\repos\LegoComparerGit\LegoComparer.Model\obj\Debug\net6.0\LegoComparer.Model.pdb
+C:\Users\Tomas\Source\Repos\LegoComparerGit\LegoComparer.Model\obj\Debug\net6.0\ref\LegoComparer.Model.dll
